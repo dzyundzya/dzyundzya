@@ -8,7 +8,7 @@ I am a Python developer with two years of programming experience. My journey beg
 
 In my free time, I am passionate about ultimate frisbee — I am a finalist of Russian championships both indoors and outdoors, regularly competing with my team. Sports have taught me discipline, determination, and teamwork skills. I also play the guitar and ukulele, enjoy video games, and maintain my fitness at the gym. These hobbies help me maintain a balance between work and personal life, as well as develop important soft skills.
 
-* 🌍  I'm based in Russia, Vologda
+* 🌍  I'm based in Russia, Moscow
 * ✉️  You can contact me at [dzyundzya.aa@yandex.ru,](mailto:dzyundzya.aa@yandex.ru,)
 
 <p align="left">

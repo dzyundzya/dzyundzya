@@ -8,48 +8,26 @@
 </div>
 
 # Hi, my name is Alexander Dzyundzya
-### Backend Developer
+### Backend Developer (Python / Django)
 
-I am a Python developer with two years of programming experience. My journey began with creating a platformer using Pygame, followed by completing courses in Python Backend development. During this time, I have implemented more than 6 projects, actively studying FastAPI and React while simultaneously mastering algorithms. My professional skills are complemented by the ability to work in a team and solve complex tasks.
 
-In my free time, I am passionate about ultimate frisbee — I am a finalist of Russian championships both indoors and outdoors, regularly competing with my team. Sports have taught me discipline, determination, and teamwork skills. I also play the guitar and ukulele, enjoy video games, and maintain my fitness at the gym. These hobbies help me maintain a balance between work and personal life, as well as develop important soft skills.
+I am a Backend Developer with commercial experience in designing and supporting enterprise-grade web applications. I work primarily with Python, Django, and Django REST Framework, building REST APIs, business logic, and integrating external systems.
 
-* 🌍  I'm based in Russia, Moscow
-* ✉️  You can contact me at [dzyundzya.aa@yandex.ru](mailto:dzyundzya.aa@yandex.ru)
+My experience includes development of corporate information systems, automation of business processes, legacy system support, and implementation of data processing and reporting pipelines. I participate in the full development lifecycle: requirements analysis, system design, implementation, testing, code review, and maintenance of existing functionality.
 
-## 🛠 Skills
+I have hands-on experience with asynchronous task processing using Celery and RabbitMQ, relational data modeling in PostgreSQL, caching with Redis, and containerized deployments using Docker. I also work with CI/CD and production-like environments.
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
-</p>
+In parallel, I continuously improve my engineering fundamentals: Python internals, OOP design patterns, concurrency, multiprocessing, and asynchronous programming. I solve algorithmic problems on LeetCode and CodeRun, and explore LLM-based tools using OpenAI API and LangChain.
 
-## 📱 Socials
+Outside of engineering, I have experience teaching technical disciplines and working in team environments, which strengthened my communication, mentoring, and collaboration skills.
 
-<p align="left">
-<a href="https://www.github.com/dzyundzya" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-</picture>
-</a>
-<a href="https://www.linkedin.com/in/dzyundzya" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-</picture>
-</a>
-</p>
+In my free time, I play ultimate frisbee - I am a finalist of Russian national championships. Sport helps me maintain discipline, focus, and a systematic approach to achieving goals. I also enjoy playing guitar and ukulele.
+
+---
+
+* 🌍 I'm based in Moscow  
+* ✉️ You can contact me at [dzyundzya.aa@yandex.ru](mailto:dzyundzya.aa@yandex.ru)  
+* 💻 LeetCode profile: https://leetcode.com/u/dzyundzya/  
 
 ## 📊 LeetCode Stats
 

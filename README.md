@@ -1,4 +1,9 @@
 <div align="center">
+  <img width="1280" height="720" alt="dzyundzya-backend-v2" src="https://github.com/user-attachments/assets/8b580fa8-fbb5-4cd0-a006-7a393c1d3929" />
+</div>
+
+---
+<div align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />
 </div>
 
@@ -52,6 +57,4 @@ In my free time, I am passionate about ultimate frisbee — I am a finalist of R
 
 ---
 
-<div align="center">
-  <img width="1280" height="720" alt="dzyundzya-backend-v2" src="https://github.com/user-attachments/assets/8b580fa8-fbb5-4cd0-a006-7a393c1d3929" />
-</div>
+
